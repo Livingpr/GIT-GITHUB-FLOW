@@ -1,2 +1,2 @@
-# git-github-flow
+# git-github-flow2
 ASSIGNMENT 1 TEACH2GIVE
