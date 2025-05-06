@@ -1,0 +1,15 @@
+body{
+    background-image: url("LOGO\ 2.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+   }
+   h1{color:black;
+   }
+   p ,li{color:white;
+       background: linear-gradient(to left, lavender, purple,pink);
+   }
+   a{color: white;}
+   button{color: blck;
+   background-color: fuchsia;}
